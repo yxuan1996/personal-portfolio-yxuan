@@ -1,0 +1,28 @@
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 7px 14px;
+  border: 1px solid var(--border-strong);
+  background: transparent;
+  color: var(--text-dim);
+  font-family: var(--font-body);
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: all 0.2s ease;
+}
+
+.toggle:hover {
+  color: var(--text);
+  border-color: var(--text);
+  background: var(--text);
+  color: var(--bg);
+}
+
+.toggle:focus-visible {
+  outline: 2px solid var(--text);
+  outline-offset: 3px;
+}

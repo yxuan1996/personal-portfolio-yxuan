@@ -1,0 +1,93 @@
+.about {
+  border-top: 1px solid var(--border);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 64px;
+}
+
+.left {
+  padding-top: 4px;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.bio {
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.8;
+  color: var(--text-dim);
+  margin-bottom: 20px;
+}
+
+.divider {
+  height: 1px;
+  background: var(--border);
+  margin: 32px 0;
+}
+
+.academic {}
+
+.acadLabel {
+  font-family: var(--font-body);
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 14px;
+}
+
+.degree {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.degreeName {
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.institution {
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.externalLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-body);
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  transition: color 0.2s;
+}
+
+.externalLink:hover {
+  color: var(--text);
+}
+
+@media (max-width: 640px) {
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+}

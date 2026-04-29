@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Magnificent-7-Financial-Analyst",
+    "description": "An AI-powered financial analysis chatbot for the Magnificent 7 tech companies, demonstrating RAG with Hybrid Search and real-time data retrieval.",
+    "url": "https://github.com/yxuan1996/Magnificent-7-Financial-Analyst",
+    "topics": ["featured"],
+    "stars": 0,
+    "language": "React",
+    "vercel_url": "https://magnificent-7-financial-analyst.vercel.app",
+    "homepage": "https://magnificent-7-financial-analyst.vercel.app"
+  },
+  {
+        "name": "Discovering F1 GraphRAG",
+        "description": "AI-powered app designed to showcase GraphRAG (Graph Retrieval-Augmented Generation) and Hybrid Search capabilities.",
+        "url": "https://github.com/yxuan1996/Discovering_F1_GraphRAG",
+        "topics": [
+            "featured"
+        ],
+        "stars": 0,
+        "language": "React",
+        "vercel_url": "https://discovering-f1.vercel.app",
+        "homepage": "https://discovering-f1.vercel.app"
+    },
+  {
+    "name": "Yolov5 Palm Crown Detection",
+    "description": "Contains project files for the YoloV5 image detection model to detect the top or 'crown' of oil palm trees.",
+    "url": "https://github.com/yxuan1996/Yolov5_Palm_Crown_Detection",
+    "topics": [
+        "featured"
+    ],
+    "stars": 5,
+    "language": "Jupyter Notebook",
+    "vercel_url": null,
+    "homepage": ""
+  },
+   {
+        "name": "RLS_AI_Chat",
+        "description": "Implementing Row Level Security on an AI Agent with SQL RAG.",
+        "url": "https://github.com/yxuan1996/RLS_AI_Chat",
+        "topics": [
+            "featured"
+        ],
+        "stars": 0,
+        "language": "TypeScript",
+        "vercel_url": "https://rls-ai-chat.vercel.app",
+        "homepage": "https://rls-ai-chat.vercel.app"
+    },
+    {
+        "name": "Inventory-Management-App",
+        "description": "Simple Inventory Management App for an Imaginary Store. ",
+        "url": "https://github.com/yxuan1996/Inventory-Management-App",
+        "topics": [
+            "featured"
+        ],
+        "stars": 0,
+        "language": "JavaScript",
+        "vercel_url": null,
+        "homepage": "https://beyondrealms-travel.onrender.com"
+    },
+    {
+        "name": "React-Collaborative-Whiteboard-Sockets",
+        "description": "Collaborative Whiteboard App using React, Socket IO and Node JS",
+        "url": "https://github.com/yxuan1996/React-Collaborative-Whiteboard-Sockets",
+        "topics": [
+            "featured"
+        ],
+        "stars": 0,
+        "language": "JavaScript",
+        "vercel_url": null,
+        "homepage": "https://yxuan1996.github.io/React-Collaborative-Whiteboard-Sockets/"
+    }
+]

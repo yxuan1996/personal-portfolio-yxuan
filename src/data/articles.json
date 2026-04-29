@@ -1,0 +1,20 @@
+[
+  {
+    "title": "How I Built an AI Market Summarizer",
+    "description": "Designing an LLM pipeline for structured market intelligence — from raw news ingestion to actionable briefs using GPT-4 and vector stores.",
+    "thumbnail": "",
+    "url": "https://medium.com/"
+  },
+  {
+    "title": "RAG with Hybrid Search: A Practical Guide",
+    "description": "Combining dense and sparse retrieval to build more accurate AI search systems. A walkthrough of the architecture behind the Magnificent-7 chatbot.",
+    "thumbnail": "",
+    "url": "https://medium.com/"
+  },
+  {
+    "title": "Azure Data Engineering Patterns for AI Systems",
+    "description": "How modern data platforms need to evolve to support LLM-powered applications — pipelines, schemas, and orchestration lessons learned.",
+    "thumbnail": "",
+    "url": "https://medium.com/"
+  }
+]
